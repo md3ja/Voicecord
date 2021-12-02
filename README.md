@@ -29,10 +29,10 @@ A code that can make your 5 accounts stay 24/7 in a discord voice channel!
 
 **Hey! I'm NotDrakezz... I'm just a newbie coder who's learning python and likes to code discord.py... If you wanna use my projects then you can checkout my [Github](https://github.com/NotDrakezz) or [Replit](https://replit.com/@NotDrakezz) profile.**
 
-[Youtube](https://youtube.com/channel/UCB5PQn1aDqS-l1NKL_uT_QA)
+[Youtube](https://youtube.com/channel/DraKenCodeZ)
 
-[Github](https://github.com/NotDrakezz)
+[Github](https://github.com/DraKenCodeZ)
 
-[Repl.it](https://replit.com/@NotDrakezz)
+[Repl.it](https://replit.com/@DraKenCodeZ)
 
-NotDraken#7921 on Discord
+[Discord](https://dsc.gg/verseop)
