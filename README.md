@@ -19,11 +19,11 @@ A code that can make your 5 accounts stay 24/7 in a discord voice channel!
 
 ・You have to install the packages everytime you use voicecord.
 
-・To leave voice channels just stop the repl tokens will leave vc after 1 or 2 minutes.
+・To leave voice channels just stop the repl and tokens will leave vc after 1 or 2 minutes.
 
-・
+・You can use uptimerrobot to keep your repl running 24/7.
 
-・
+・[Tutorial]()
 
 ##### About NotDrakezz
 
