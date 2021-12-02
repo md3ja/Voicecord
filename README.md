@@ -15,7 +15,17 @@ A code that can make your 5 accounts stay 24/7 in a discord voice channel!
 ### Required Packages
 > pip install discord.py[voice]
 
-#### About NotDrakezz
+#### Points to be Noted
+
+・You have to install the packages everytime you use voicecord.
+
+・To leave voice channels just stop the repl tokens will leave vc after 1 or 2 minutes.
+
+・
+
+・
+
+##### About NotDrakezz
 
 **Hey! I'm NotDrakezz... I'm just a newbie coder who's learning python and likes to code discord.py... If you wanna use my projects then you can checkout my [Github](https://github.com/NotDrakezz) or [Replit](https://replit.com/@NotDrakezz) profile.**
 
