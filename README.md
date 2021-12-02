@@ -13,9 +13,7 @@ A code that can make your 5 accounts stay 24/7 in a discord voice channel!
 ・Run it and input the voice channel id in console
 
 ### Required Packages
-> pip install requests
-
-> pip install discord_webhook
+> pip install discord.py[voice]
 
 #### About NotDrakezz
 
