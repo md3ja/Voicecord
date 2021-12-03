@@ -25,9 +25,9 @@ A code that can make your 5 accounts stay 24/7 in a discord voice channel!
 
 ・[Tutorial](https://youtu.be/b488UR7AP7k)
 
-##### About NotDrakezz
+##### About DraKenCodeZ
 
-**Hey! I'm NotDrakezz... I'm just a newbie coder who's learning python and likes to code discord.py... If you wanna use my projects then you can checkout my Github or Replit profile.**
+**Hey! I'm DraKenCodeZ... I'm just a newbie coder who's learning python and likes to code discord.py... If you wanna use my projects then you can checkout my Github or Replit profile.**
 
 [Youtube](https://www.youtube.com/c/DraKenCodeZ)
 
